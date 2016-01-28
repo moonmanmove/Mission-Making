@@ -1,4 +1,4 @@
-author = "KmO"; //Author of the mission
+author = "KmO and tempaboi"; //Author of the mission
 onLoadMission = "Deliberate attack on Shapur"; //Text displayed under the image during the loading screen
 
 class Header {

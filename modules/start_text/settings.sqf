@@ -17,8 +17,8 @@ switch (side player) do { //Checks what team the player is on
 	case west: { //If player is west he receives this message
 
 		_startTextArray = [
-			["TITLEQUOTE", "BLUFOR Time"],
-			["TEXT", "Somewhere in Kavala"],
+			["TITLEQUOTE", "Southern Iraq"],
+			["TEXT", "At assembly area, 1km east of Shapur"],
 			["DATETIME"]
 		];
 

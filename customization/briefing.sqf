@@ -12,8 +12,7 @@ End conditions:<br / >
 70% of BLUFOR killed<br / >
 70% of REDFOR killed<br / >
 95 minute time limit<br / ><br />
-Olsen Framework V2.0
-Mission by KmO<br />
+Mission by KmO with assistance of tempaboi.<br />
 ENDTAB;
 
 switch (side player) do { //Checks what team the player is on
@@ -43,7 +42,6 @@ Each Paladin contains:<br />
 24 x M795 HE<br />
 8 x M483A1 DPICM<br />
 8 x M825 WP<br /><br />
-Platoon has 8 x  M741 RAAMS scatterable AT mines at its disposal.
 
 (Shells will have to be loaded into the 109 first because I hate you)
 ENDTAB;
@@ -125,9 +123,9 @@ NEWTAB("I. Situation:")
 	  The division reserve of a tank/mech battalion is on call for the defense. They are templated to reinforce along AA1 and AA2.<br /><br />
  c. Morale and equipment of enemy force<br />
 	Troops encountered are high readiness, training and morale. The Division reserve is expected to have a response time of 30 minutes. Enemy is mounted in BMP2 IFVs and T72 tanks. Enemy dismounts have access to AT-7 Saxhorn,
-	  which are expected to be employed in depth from hidden positions. Enemy has access to tube artillery, approximately platoon strength.<br /><br />
+	  which are expected to be employed in depth from hidden positions.<br /><br />
  d. Most Probable Course of Action.<br />
-	  Conduct a defense in depth within zone. They will most likely keep their vehicles' engines off, lowering the effectiveness of friendly thermal optics, yet denying them mobility. <br /><br />
+	  Conduct a defense in depth within zone. They will most likely keep their vehicles' engines off, lowering the effectiveness of friendly thermal optics, but denying them mobility. <br /><br />
  e. Most Dangerous Course of Action <br />
 	 Conduct a mobile defence, with supporting artillery, allowing their reserve to destroy friendly forces when they arrive while conserving fighting strength.<br /><br /><br />
 2. Friendly Forces<br />
