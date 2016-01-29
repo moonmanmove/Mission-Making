@@ -22,7 +22,8 @@ if (_eastCasualty >= 80) exitWith {
 };
 
 
-if ((time / 90) >= FW_TimeLimit && FW_TimeLimit != 0) exitWith { //It is recommended that you do not remove the time limit end condition 
+if ((time / 60) >= FW_TimeLimit && FW_TimeLimit != 0) exitWith { //It is recommended that you do not remove the time limit end condition
+
 	
 	"Mission End - Minor Defeat<br /> Shapur was not seized within time, losing the initiative for the Coalition advance." call FNC_EndMission;
 	

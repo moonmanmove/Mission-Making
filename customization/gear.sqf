@@ -167,8 +167,8 @@ switch (_type) do {
 	};		
 	case "RTO": {
 		["usm_bdu_d"] call FNC_AddItem;
+		["usm_pack_alice_prc119"] call FNC_AddItem;
 		["usm_vest_pasgt_lbv_rm"] call FNC_AddItem;
-		["usm_pack_st138_prc77"] call FNC_AddItem;
 		["usm_helmet_pasgt_g_d"] call FNC_AddItem;
 		["ACE_fieldDressing",5,"uniform"] call FNC_AddItem;
 		["ACE_packingBandage",1,"uniform"] call FNC_AddItem;

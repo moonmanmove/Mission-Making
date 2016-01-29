@@ -4,7 +4,7 @@ if (isServer) then { //This scope is only for the server
 
 	setViewDistance 2500; //View distance for the server (the ai's)
 
-	FW_TimeLimit = 30; //Time limit in minutes, to disable the time limit set it to 0
+	FW_TimeLimit = 95; //Time limit in minutes, to disable the time limit set it to 0
 
 	[west, "2-67 Armor", "player"] call FNC_AddTeam; //Adds a player team called USMC on side west
 	[east, "1-5th 'Baghdad' Mechanised Division", "ai"] call FNC_AddTeam; //Adds a ai team called VDV on side east

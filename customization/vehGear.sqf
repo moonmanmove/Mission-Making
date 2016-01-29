@@ -24,6 +24,7 @@ switch (_type) do {
 		["ACE_M26_Clacker",1] call FNC_AddItemVehicle;
 		["rhs_weap_M136_hedp",4] call FNC_AddItemVehicle;
 		["DemoCharge_Remote_Mag",6] call FNC_AddItemVehicle;
+		["ACRE_PRC117F",1] call FNC_AddItemVehicle;
 	};	
 	case "ABRAMS": {
 		_vehicle call FNC_RemoveAllVehicleGear;
@@ -55,6 +56,7 @@ switch (_type) do {
 		["rhs_mag_an_m8hc", 2] call FNC_AddItemVehicle;					
 		["ACE_fieldDressing", 8] call FNC_AddItemVehicle;			
 		["ACE_packingBandage",4] call FNC_AddItemVehicle;
+		["ACRE_PRC117F",1] call FNC_AddItemVehicle;
 		["ACE_salineIV_250", 3] call FNC_AddItemVehicle;			
 		["ACE_morphine", 3] call FNC_AddItemVehicle;			
 		["ACE_personalAidKit", 3] call FNC_AddItemVehicle;

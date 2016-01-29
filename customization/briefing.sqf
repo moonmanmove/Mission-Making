@@ -13,11 +13,13 @@ End conditions:<br / >
 70% of REDFOR killed<br / >
 95 minute time limit<br / ><br />
 Mission by KmO with assistance of tempaboi.<br />
+Due to deltahawks infatuation with smoke grenades, i have placed 117Fs inside the vehicles RTOs spawn next to ONLY RTOs may take these radios.<br />
 ENDTAB;
 
 switch (side player) do { //Checks what team the player is on
 
 case west: { //If player is west he receives this briefing
+
 
 NEWTAB("APPDX B. Bradley Ammo Load")
 4 x M136 AT4<br />
@@ -41,6 +43,8 @@ NEWTAB("APPDX A. Artillery Ammo Report")
 Each Paladin contains:<br />
 24 x M795 HE<br />
 8 x M483A1 DPICM<br />
+8 x M483A1 DPICM<br />
+8 x Illum rounds<br />
 8 x M825 WP<br /><br />
 
 (Shells will have to be loaded into the 109 first because I hate you)
@@ -132,9 +136,12 @@ NEWTAB("I. Situation:")
  a. Higher Unit’s Mission<br />
 	 Attack enemy strongpoints along MSR Hardball to facilitate Coalition operations further within Iraq.<br /><br />
  b. Supporting Fires<br />
-	 Yankee 81, artillery platoon of 3xM109A6 Paladin is placed under the command of Team Bravo's FIST. Ammunition capacity at around 60%. <br /><br /><br />
+ 3. Weather<br />
+ a. Low moon, almost pitch black weather. Clear skies. Visbility is around 2000 metres.<br />
+	 No fog time of day is 0155 local. <br /><br /><br />
+	 
  
-3. Attachments / Detachments<br />
+4. Attachments / Detachments<br />
 3 Platoon has been amalgamated into 1st and 2nd platoons due to the Team's casualties.
 ENDTAB;
 
